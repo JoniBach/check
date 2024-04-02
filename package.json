@@ -1,6 +1,6 @@
 {
-  "name": "@jonibach/transform",
-  "version": "0.1.4",
+  "name": "@jonibach/check",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "@types/index.d.ts",

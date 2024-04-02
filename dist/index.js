@@ -16,12 +16,10 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./array"), exports);
 __exportStar(require("./comparison"), exports);
-__exportStar(require("./condition"), exports);
 __exportStar(require("./date"), exports);
 __exportStar(require("./existence"), exports);
 __exportStar(require("./logic"), exports);
 __exportStar(require("./misc"), exports);
 __exportStar(require("./number"), exports);
 __exportStar(require("./string"), exports);
-__exportStar(require("./dataStructure"), exports);
 __exportStar(require("./operations"), exports);
